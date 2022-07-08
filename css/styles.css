@@ -1,0 +1,16 @@
+body {
+  background-color: hsl(30, 30%, 92%);
+
+}
+
+.product-img {
+  position: relative;
+  float: left;
+  width: 30%;
+}
+
+.product-container {
+  background-color: white;
+  margin: 10% 25%;
+  text-align: center;
+}
